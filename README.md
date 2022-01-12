@@ -1,5 +1,5 @@
 # $ MaxShell  v1.0
-## $ Aviz legal
+## ! Aviz legal
 Utilizarea Scriptul MaxShell pentru a ataca ținte fără acordul reciproc prealabil este ilegală. Este responsabilitatea utilizatorului final să respecte toate legile locale, statale și federale aplicabile. Dezvoltatorul nu își asumă nicio răspundere și nu sunt responsabili pentru orice utilizare greșită sau daune cauzate de acest script
 
 ![Captură de ecran de la 2022-01-12 20-42-07](https://user-images.githubusercontent.com/93870894/149202497-f3eea55d-c5d5-4bd6-aa25-ac76fdcc8333.png)
@@ -24,4 +24,4 @@ git clone https://github.com/hacking12345678/MaxShell.git
 ### Obligatoriu instalarea aplicaţile
 <br> 1)Ngrok
 <br> 2)Visual Studio Code
-# Pe Android,Ios nu funcţionează
+# ! Pe Android,Ios nu funcţionează
