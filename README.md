@@ -8,7 +8,7 @@ git clone https://github.com/hacking12345678/MaxShell.git
 <br>cd MaxShell
 <br>ls
 <br>cd instagram,facebook,google
-<br>php -S localhost:???? < port
+<br>php -S 127.0.0.1:???? < port
 ## $ Testat
 <br> 1)ubuntu 21.10
 <br> 2)kali-linux
