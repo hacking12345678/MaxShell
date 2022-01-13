@@ -22,8 +22,9 @@ git clone https://github.com/hacking12345678/MaxShell.git
 <br> 2)kali-linux
 <br> 3)Fedora
 <br> 4)Parrot OS
+#### Android,ios
+<br> Termux
 ##  $ Microsoft
 ### Obligatoriu instalarea aplicaţile
 <br> 1)Ngrok
 <br> 2)Visual Studio Code
-# ! Pe Android,Ios nu funcţionează
