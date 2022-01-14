@@ -29,6 +29,7 @@ git clone https://github.com/hacking12345678/MaxShell.git
 <br> 4)Parrot OS
 #### $ Android,ios
 <br> Termux
+#### ! Instalaţi Ngrok
 ##  $ Microsoft
 ### $ Obligatoriu instalarea aplicaţile
 <br> 1)Ngrok
