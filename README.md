@@ -2,7 +2,7 @@
 ## ! Aviz legal
 Utilizarea Scriptul MaxShell pentru a ataca ținte fără acordul reciproc prealabil este ilegală. Este responsabilitatea utilizatorului final să respecte toate legile locale, statale și federale aplicabile. Dezvoltatorul nu își asumă nicio răspundere și nu sunt responsabil pentru orice utilizare greșită sau daune cauzate de acest script
 # $ Phishing
- <br> Instagram,Facebook
+ <br> Instagram,Facebook,Ceiti
  ## $ imageni cu ngrok
  ![Captură de ecran de la 2022-01-13 22-38-11](https://user-images.githubusercontent.com/93870894/149406489-06cd462c-e029-4907-b106-a1ae40f5f5e7.png)
 ![Captură de ecran de la 2022-01-13 22-38-41](https://user-images.githubusercontent.com/93870894/149406582-b905cb1e-e65c-4240-8c58-f389ea27b905.png)
@@ -18,7 +18,7 @@ Utilizarea Scriptul MaxShell pentru a ataca ținte fără acordul reciproc preal
 git clone https://github.com/hacking12345678/MaxShell.git
 <br>cd MaxShell
 <br>ls
-<br>cd instagram,facebook
+<br>cd instagram,facebook.ceiti
 <br>php -S 127.0.0.1:???? < port
 <br> ngrok http ???? < port
 # $ Instalaţi aplicaţia Ngrok 
