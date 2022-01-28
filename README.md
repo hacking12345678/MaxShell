@@ -34,3 +34,4 @@ git clone https://github.com/hacking12345678/MaxShell.git
 ### $ Obligatoriu instalarea aplicaţile
 <br> 1)Ngrok
 <br> 2)Visual Studio Code
+<br> 3)XAMPP
